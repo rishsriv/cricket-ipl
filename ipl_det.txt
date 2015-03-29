@@ -1,0 +1,3 @@
+striker_id, non_striker_id, bowler_id, related to speed, id_batsman_out, how_was_batsman_out,runs_w_extras, runs_batter, runs_w_extras,extras_type,batsman_right_handed,landed_y,landed_x,ended_x,ended_y, hit_x (neutral=50), hit_y(neutral=50)
+
+for hit_x and hit_y, (5,5) means hit and miss
